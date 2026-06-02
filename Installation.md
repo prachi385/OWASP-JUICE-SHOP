@@ -283,20 +283,6 @@ npm install
 ```
 
 ---
-
-# Security Notice
-
-OWASP Juice Shop is intentionally vulnerable.
-
-Only run it:
-
-* In a lab environment
-* In a virtual machine
-* For educational purposes
-* On networks you control
-
-Do not expose Juice Shop to the public Internet.
-
 ---
 
 # Useful Commands
